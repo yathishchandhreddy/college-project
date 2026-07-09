@@ -1,0 +1,6 @@
+{
+  "name": "TNSTC Bus Tracker",
+  "description": "Government of Tamil Nadu official real-time bus tracking and passenger information system with live GPS tracking, route schedules, and instant departure notifications.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
